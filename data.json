@@ -1,0 +1,10 @@
+{
+    "name": "Sadia Hasan",
+    "course": "Web Programming",
+    "assignment": {
+      "title": "AJAX with GitHub",
+      "description": "Fetch and display data from a GitHub repository using AJAX."
+    },
+    "topicsCovered": ["HTML", "CSS", "JavaScript", "AJAX"]
+  }
+  
